@@ -2,5 +2,5 @@ The Account_Tool.ps1 tool is created as a powershell script that encompasess a w
 tool.
 
 THis is my first true attempt of scripting, so the code is far from optimised but as of now it does run.
-It is a work in progress and I will be adding more sripts/ tools to it.
+It is a work in progress and I will be adding more scripts/ tools to it.
 
